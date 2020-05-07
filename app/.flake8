@@ -4,3 +4,5 @@ migrations,
 __pycache__,
 manage.py,
 setting.py
+
+max-line-length = 179
